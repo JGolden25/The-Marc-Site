@@ -10,7 +10,7 @@ class Header extends Component {
             <AppBar 
             position="fixed"
             >
-                header
+                header test
             </AppBar>
         );
     }
