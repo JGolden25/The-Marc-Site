@@ -1,5 +1,7 @@
 import React from 'react';
 import Carrousel from "./Carrousel";
+import TimeUntil from './TimeUntil';
+
 const Featured = () => {
     return (
         <div style={{position:'relative'}}>
@@ -9,6 +11,7 @@ const Featured = () => {
                    Arianna Grande 
                 </div>
             </div>
+            <TimeUntil/>
         </div>
     );
 };
