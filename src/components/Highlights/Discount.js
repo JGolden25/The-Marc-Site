@@ -44,7 +44,12 @@ componentDidUpdate(){
                 <div className="discount_description">
                     <h3>Purchase tickets before Dec 20th</h3>
                     <p>lipsumfornow</p>
-                    <MyButton/>
+                    <MyButton
+                    text="Purchase tickets"
+                    bck="#ffa800"
+                    color="#ffffff"
+                    link="http://google.com"
+                    />
                       
                     </div>
                 </Slide>
