@@ -8,7 +8,7 @@ const Featured = () => {
             <Carrousel/>
             <div className="artist_name">
                 <div className="wrapper">
-                   Arianna Grande 
+                SAWANO HIROYUKI 
                 </div>
             </div>
             <TimeUntil/>

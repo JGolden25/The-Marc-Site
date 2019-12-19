@@ -8,11 +8,11 @@ class Pricing extends Component {
         prices:[100, 150, 250],
         positions:['Balcony', 'Medium', 'Star'],
         desc: [
-            'yada for now',
-            'Dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea',
-            'Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.'
+            'Balcony includes one (1) Balcony seat ticket. Allows entry into the show, including access to the main act.',
+            'Medium includes one (1) GA ticket. Allows entry into the show, including access to the main act, activities, as well as food & drink vendors.',
+            'Star includes one (1) VIP ticket. Allows entry into the show, including access to the main act, activities, food & drink vendors and a a meet and greet with the artist.'
         ],
-        linkto: ['http://salesforce.com', 'http://salesforce.com', 'http://salesforce.com'],
+        linkto: ['https://open.spotify.com/artist/2EWXgN0xWOnbqJOxa9pWNO', 'https://open.spotify.com/artist/2EWXgN0xWOnbqJOxa9pWNO', 'https://open.spotify.com/artist/2EWXgN0xWOnbqJOxa9pWNO'],
         delay:[500,0,500]
     }
     showBoxes = () => (

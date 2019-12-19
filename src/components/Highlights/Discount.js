@@ -43,12 +43,12 @@ componentDidUpdate(){
                 <Slide right>
                 <div className="discount_description">
                     <h3>Purchase tickets before Dec 20th</h3>
-                    <p>lipsumfornow</p>
+                    <p>Limited Offer</p>
                     <MyButton
                     text="Purchase tickets"
                     bck="#ffa800"
                     color="#ffffff"
-                    link="http://google.com"
+                    link="https://open.spotify.com/artist/2EWXgN0xWOnbqJOxa9pWNO"
                     />
                       
                     </div>
