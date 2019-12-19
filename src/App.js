@@ -1,7 +1,7 @@
 import React from 'react';
 import './resources/styles.css';
 import { Element } from 'react-scroll';
-import Header from './components/header_footer/headerz';
+import Header from './components/header_footer/Header';
 import Featured from './components/featured';
 import VenueNfo from './components/venueNfo';
 import Highlight from './components/Highlights';
