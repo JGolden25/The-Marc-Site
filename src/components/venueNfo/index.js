@@ -48,7 +48,7 @@ const VunueNfo = () => {
                                         Event Location
                                     </div>
                                     <div className="vn_desc">
-                                        2657 W Avondale St San Marcos, Tx.
+                                    120 E San Antonio St, San Marcos, TX 78666
                                     </div>
                                 </div>
                             </div>
